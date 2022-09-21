@@ -1,0 +1,20 @@
+[
+  {
+    "ruleId": "0x01",
+    "type": "base",
+    "title": "Passport issued by U.S. (USA)",
+    "usedBy": ["0x03"]
+  },
+  {
+    "ruleId": "0x02",
+    "type": "base",
+    "title": "Corporated in U.S. (USA)",
+    "usedBy": []
+  },
+  {
+    "ruleId": "0x03",
+    "type": "union",
+    "title": "union (G7 individuals)",
+    "usedBy": []
+  }
+]
